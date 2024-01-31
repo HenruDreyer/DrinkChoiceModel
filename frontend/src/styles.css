@@ -1,0 +1,87 @@
+@import 'tailwindcss/base'; 
+@import 'tailwindcss/components'; 
+@import 'tailwindcss/utilities'; 
+
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    background-color: #3498db;
+    color: #fff;
+    padding: 1rem;
+    margin: 2rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .section-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .input-label {
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .input-field {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    width: 100%;
+  }
+  
+  .button {
+    background-color: #fff;
+    color: #3498db;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #2980b9;
+  }
+  
+  .result {
+    font-size: 1.5rem;
+  }
+  
+  .exclusion-message {
+    color: #ff0000;
+    margin-top: 1rem;
+  }
+  
+  .batch-buttons {
+    margin-top: 1rem;
+  }
+  
+  table {
+    width: 100%;
+    margin-top: 1rem;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #3498db;
+    color: #fff;
+  }
+  
