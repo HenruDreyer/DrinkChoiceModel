@@ -27,7 +27,7 @@ This project aims to provide a web-based interface for making decisions on drink
 - MongoDB
 - Git
 
-https://github.com/your-username/drink-choice-model.git
+[https://github.com/your-username/drink-choice-model.git](https://github.com/HenruDreyer/DrinkChoiceModel.git)
 
 
 2. Navigate to the project directory:
